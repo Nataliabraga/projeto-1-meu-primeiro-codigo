@@ -1,1 +1,4 @@
 oLÁ MEU NOME É NATALIA
+
+Olá Bruno, tudo bem? Eu não entendi muito bem o problema, mas você poderia fazer o git pull dentro da pasta ana e 
+depois verificar se os commit são realmente os mesmos, porque essa mensagem:
